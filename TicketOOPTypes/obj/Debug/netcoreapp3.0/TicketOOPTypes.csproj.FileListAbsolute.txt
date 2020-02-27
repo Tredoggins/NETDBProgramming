@@ -1,3 +1,14 @@
 C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketOOPTypes\bin\Debug\netcoreapp3.0\TicketOOPTypes.exe
 C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketOOPTypes\obj\Debug\netcoreapp3.0\TicketOOPTypes.AssemblyInfoInputs.cache
 C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketOOPTypes\obj\Debug\netcoreapp3.0\TicketOOPTypes.AssemblyInfo.cs
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketOOPTypes\bin\Debug\netcoreapp3.0\NLog.config
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketOOPTypes\bin\Debug\netcoreapp3.0\TicketOOPTypes.deps.json
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketOOPTypes\bin\Debug\netcoreapp3.0\TicketOOPTypes.runtimeconfig.json
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketOOPTypes\bin\Debug\netcoreapp3.0\TicketOOPTypes.runtimeconfig.dev.json
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketOOPTypes\bin\Debug\netcoreapp3.0\TicketOOPTypes.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketOOPTypes\bin\Debug\netcoreapp3.0\TicketOOPTypes.pdb
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketOOPTypes\bin\Debug\netcoreapp3.0\NLog.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketOOPTypes\obj\Debug\netcoreapp3.0\TicketOOPTypes.csprojAssemblyReference.cache
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketOOPTypes\obj\Debug\netcoreapp3.0\TicketOOPTypes.csproj.CopyComplete
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketOOPTypes\obj\Debug\netcoreapp3.0\TicketOOPTypes.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketOOPTypes\obj\Debug\netcoreapp3.0\TicketOOPTypes.pdb

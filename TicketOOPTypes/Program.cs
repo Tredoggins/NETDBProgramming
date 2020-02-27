@@ -91,50 +91,14 @@ namespace TicketOOPTypes
                         {
                             case "1":
                                 BugDefectTicket bDticket = new BugDefectTicket();
-                                Console.WriteLine("Ticket Summary:");
-                                bDticket.summary = Console.ReadLine();
-                                Console.WriteLine("Ticket Status:");
-                                bDticket.status = Console.ReadLine();
-                                Console.WriteLine("Ticket Priority:");
-                                bDticket.priority = Console.ReadLine();
-                                Console.WriteLine("Ticket Submitter:");
-                                bDticket.submitter = Console.ReadLine();
-                                Console.WriteLine("Assigned to Ticket:");
-                                bDticket.assigned = Console.ReadLine();
-                                do
-                                {
-                                    Console.WriteLine("One Person Watching this Ticket (done to end): ");
-                                    next = Console.ReadLine();
-                                    if (next.ToLower() != "done" && next.Length > 0)
-                                    {
-                                        bDticket.watching.Add(next);
-                                    }
-                                } while (next != "done");
+                                doCommon(bDticket);
                                 Console.WriteLine("Ticket Severity:");
                                 bDticket.severity = Console.ReadLine();
                                 bugDefectFile.addTicket(bDticket);
                                 break;
                             case "2":
                                 EnhancementTicket eticket = new EnhancementTicket();
-                                Console.WriteLine("Ticket Summary:");
-                                eticket.summary = Console.ReadLine();
-                                Console.WriteLine("Ticket Status:");
-                                eticket.status = Console.ReadLine();
-                                Console.WriteLine("Ticket Priority:");
-                                eticket.priority = Console.ReadLine();
-                                Console.WriteLine("Ticket Submitter:");
-                                eticket.submitter = Console.ReadLine();
-                                Console.WriteLine("Assigned to Ticket:");
-                                eticket.assigned = Console.ReadLine();
-                                do
-                                {
-                                    Console.WriteLine("One Person Watching this Ticket (done to end): ");
-                                    next = Console.ReadLine();
-                                    if (next.ToLower() != "done" && next.Length > 0)
-                                    {
-                                        eticket.watching.Add(next);
-                                    }
-                                } while (next != "done");
+                                doCommon(eticket);
                                 Console.WriteLine("Ticket Software:");
                                 eticket.software = Console.ReadLine();
                                 Console.WriteLine("Ticket Cost:");
@@ -150,25 +114,7 @@ namespace TicketOOPTypes
                             default:
                             case "3":
                                 TaskTicket ticket = new TaskTicket();
-                                Console.WriteLine("Ticket Summary:");
-                                ticket.summary = Console.ReadLine();
-                                Console.WriteLine("Ticket Status:");
-                                ticket.status = Console.ReadLine();
-                                Console.WriteLine("Ticket Priority:");
-                                ticket.priority = Console.ReadLine();
-                                Console.WriteLine("Ticket Submitter:");
-                                ticket.submitter = Console.ReadLine();
-                                Console.WriteLine("Assigned to Ticket:");
-                                ticket.assigned = Console.ReadLine();
-                                do
-                                {
-                                    Console.WriteLine("One Person Watching this Ticket (done to end): ");
-                                    next = Console.ReadLine();
-                                    if (next.ToLower() != "done" && next.Length > 0)
-                                    {
-                                        ticket.watching.Add(next);
-                                    }
-                                } while (next != "done");
+                                doCommon(ticket);
                                 Console.WriteLine("Ticket Project Name:");
                                 ticket.projectName = Console.ReadLine();
                                 Console.WriteLine("Ticket Due Date Month:");
@@ -189,6 +135,29 @@ namespace TicketOOPTypes
                 }
             } while (choice == "1" || choice == "2");
             logger.Info("Program Ended");
+        }
+        private static void doCommon(Ticket ticket)
+        {
+            string next;
+            Console.WriteLine("Ticket Summary:");
+            ticket.summary = Console.ReadLine();
+            Console.WriteLine("Ticket Status:");
+            ticket.status = Console.ReadLine();
+            Console.WriteLine("Ticket Priority:");
+            ticket.priority = Console.ReadLine();
+            Console.WriteLine("Ticket Submitter:");
+            ticket.submitter = Console.ReadLine();
+            Console.WriteLine("Assigned to Ticket:");
+            ticket.assigned = Console.ReadLine();
+            do
+            {
+                Console.WriteLine("One Person Watching this Ticket (done to end): ");
+                next = Console.ReadLine();
+                if (next.ToLower() != "done" && next.Length > 0)
+                {
+                    ticket.watching.Add(next);
+                }
+            } while (next != "done");
         }
     }
 }

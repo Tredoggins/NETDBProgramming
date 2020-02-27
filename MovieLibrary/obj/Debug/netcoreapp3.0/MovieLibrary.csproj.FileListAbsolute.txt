@@ -1,0 +1,14 @@
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MovieLibrary\bin\Debug\netcoreapp3.0\NLog.config
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MovieLibrary\bin\Debug\netcoreapp3.0\MovieLibrary.exe
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MovieLibrary\bin\Debug\netcoreapp3.0\MovieLibrary.deps.json
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MovieLibrary\bin\Debug\netcoreapp3.0\MovieLibrary.runtimeconfig.json
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MovieLibrary\bin\Debug\netcoreapp3.0\MovieLibrary.runtimeconfig.dev.json
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MovieLibrary\bin\Debug\netcoreapp3.0\MovieLibrary.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MovieLibrary\bin\Debug\netcoreapp3.0\MovieLibrary.pdb
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MovieLibrary\bin\Debug\netcoreapp3.0\NLog.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MovieLibrary\obj\Debug\netcoreapp3.0\MovieLibrary.csprojAssemblyReference.cache
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MovieLibrary\obj\Debug\netcoreapp3.0\MovieLibrary.AssemblyInfoInputs.cache
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MovieLibrary\obj\Debug\netcoreapp3.0\MovieLibrary.AssemblyInfo.cs
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MovieLibrary\obj\Debug\netcoreapp3.0\MovieLibrary.csproj.CopyComplete
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MovieLibrary\obj\Debug\netcoreapp3.0\MovieLibrary.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MovieLibrary\obj\Debug\netcoreapp3.0\MovieLibrary.pdb
