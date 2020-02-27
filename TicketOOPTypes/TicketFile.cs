@@ -42,6 +42,16 @@ namespace TicketOOPTypes
                 logger.Error(ex.Message);
             }
         }
+        public void setNormals(Ticket ticket,string[] data)
+        {
+            ticket.id = UInt64.Parse(data[0]);
+            ticket.summary = data[1];
+            ticket.status = data[2];
+            ticket.priority = data[3];
+            ticket.submitter = data[4];
+            ticket.assigned = data[5];
+            ticket.watching = data[6].Split("|").ToList();
+        }
     }
     class BugDefectFile : TicketFile
     {
@@ -65,15 +75,8 @@ namespace TicketOOPTypes
                         string line = sr.ReadLine();
                         string[] data = line.Split(",");
                         BugDefectTicket ticket = new BugDefectTicket();
-                        ticket.id = UInt64.Parse(data[0]);
-                        ticket.summary = data[1];
-                        ticket.status = data[2];
-                        ticket.priority = data[3];
-                        ticket.submitter = data[4];
-                        ticket.assigned = data[5];
-                        ticket.watching = data[6].Split("|").ToList();
+                        base.setNormals(ticket, data);
                         ticket.severity = data[7];
-
                         tickets.Add(ticket);
                     }
                     sr.Close();
@@ -108,13 +111,7 @@ namespace TicketOOPTypes
                         string line = sr.ReadLine();
                         string[] data = line.Split(",");
                         EnhancementTicket ticket = new EnhancementTicket();
-                        ticket.id = UInt64.Parse(data[0]);
-                        ticket.summary = data[1];
-                        ticket.status = data[2];
-                        ticket.priority = data[3];
-                        ticket.submitter = data[4];
-                        ticket.assigned = data[5];
-                        ticket.watching = data[6].Split("|").ToList();
+                        base.setNormals(ticket, data);
                         ticket.software = data[7];
                         ticket.cost = Decimal.Parse(data[8]);
                         ticket.reason = data[9];
@@ -153,13 +150,7 @@ namespace TicketOOPTypes
                         string line = sr.ReadLine();
                         string[] data = line.Split(",");
                         TaskTicket ticket = new TaskTicket();
-                        ticket.id = UInt64.Parse(data[0]);
-                        ticket.summary = data[1];
-                        ticket.status = data[2];
-                        ticket.priority = data[3];
-                        ticket.submitter = data[4];
-                        ticket.assigned = data[5];
-                        ticket.watching = data[6].Split("|").ToList();
+                        base.setNormals(ticket, data);
                         ticket.projectName = data[7];
                         ticket.dueDate = DateTime.Parse(data[8]);
                         tickets.Add(ticket);
