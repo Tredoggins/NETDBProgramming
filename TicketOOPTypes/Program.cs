@@ -53,17 +53,14 @@ namespace TicketOOPTypes
                     switch (type)
                     {
                         case "1":
-                            type = $"{type}";
                             inBetween = ", ";
                             which = "Bug/Defect";
                             break;
                         case "2":
-                            type = $"{type}";
                             inBetween = ", ";
                             which = "Enhancement";
                             break;
                         case "3":
-                            type = $"{type}";
                             inBetween = ", ";
                             which = "Task";
                             break;
