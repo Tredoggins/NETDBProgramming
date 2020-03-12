@@ -1,0 +1,14 @@
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\obj\Debug\netcoreapp3.0\MediaLibrary.csprojAssemblyReference.cache
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\obj\Debug\netcoreapp3.0\MediaLibrary.AssemblyInfoInputs.cache
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\obj\Debug\netcoreapp3.0\MediaLibrary.AssemblyInfo.cs
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\bin\Debug\netcoreapp3.0\MediaLibrary.exe
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\bin\Debug\netcoreapp3.0\NLog.config
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\bin\Debug\netcoreapp3.0\MediaLibrary.deps.json
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\bin\Debug\netcoreapp3.0\MediaLibrary.runtimeconfig.json
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\bin\Debug\netcoreapp3.0\MediaLibrary.runtimeconfig.dev.json
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\bin\Debug\netcoreapp3.0\MediaLibrary.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\bin\Debug\netcoreapp3.0\MediaLibrary.pdb
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\bin\Debug\netcoreapp3.0\NLog.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\obj\Debug\netcoreapp3.0\MediaLibrary.csproj.CopyComplete
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\obj\Debug\netcoreapp3.0\MediaLibrary.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibrary\obj\Debug\netcoreapp3.0\MediaLibrary.pdb

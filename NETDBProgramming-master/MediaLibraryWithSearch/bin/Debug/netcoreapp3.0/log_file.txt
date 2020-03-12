@@ -1,0 +1,8 @@
+2020-03-12 09:18:49.4358|INFO|MediaLibraryWithSearch.MainClass|Program started
+2020-03-12 09:18:49.4671|INFO|MediaLibraryWithSearch.FileScrubber|File scrub started
+2020-03-12 09:18:49.4992|INFO|MediaLibraryWithSearch.FileScrubber|File scrub ended
+2020-03-12 09:18:49.5285|INFO|MediaLibraryWithSearch.MovieFile|Movies in file 9125
+2020-03-12 09:18:49.5440|INFO|MediaLibraryWithSearch.AlbumFile|Albums in file 1
+2020-03-12 09:18:49.5440|INFO|MediaLibraryWithSearch.BookFile|Books in file 1
+2020-03-12 09:18:56.6085|INFO|MediaLibraryWithSearch.MainClass|User choice: "3"
+2020-03-12 09:19:17.4079|INFO|MediaLibraryWithSearch.MainClass|Program ended

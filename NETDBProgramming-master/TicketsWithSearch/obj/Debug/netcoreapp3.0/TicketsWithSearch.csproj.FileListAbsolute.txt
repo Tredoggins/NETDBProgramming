@@ -1,0 +1,14 @@
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsWithSearch\bin\Debug\netcoreapp3.0\TicketsWithSearch.exe
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsWithSearch\obj\Debug\netcoreapp3.0\TicketsWithSearch.AssemblyInfoInputs.cache
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsWithSearch\obj\Debug\netcoreapp3.0\TicketsWithSearch.AssemblyInfo.cs
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsWithSearch\bin\Debug\netcoreapp3.0\NLog.config
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsWithSearch\bin\Debug\netcoreapp3.0\TicketsWithSearch.deps.json
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsWithSearch\bin\Debug\netcoreapp3.0\TicketsWithSearch.runtimeconfig.json
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsWithSearch\bin\Debug\netcoreapp3.0\TicketsWithSearch.runtimeconfig.dev.json
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsWithSearch\bin\Debug\netcoreapp3.0\TicketsWithSearch.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsWithSearch\bin\Debug\netcoreapp3.0\TicketsWithSearch.pdb
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsWithSearch\bin\Debug\netcoreapp3.0\NLog.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsWithSearch\obj\Debug\netcoreapp3.0\TicketsWithSearch.csprojAssemblyReference.cache
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsWithSearch\obj\Debug\netcoreapp3.0\TicketsWithSearch.csproj.CopyComplete
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsWithSearch\obj\Debug\netcoreapp3.0\TicketsWithSearch.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsWithSearch\obj\Debug\netcoreapp3.0\TicketsWithSearch.pdb

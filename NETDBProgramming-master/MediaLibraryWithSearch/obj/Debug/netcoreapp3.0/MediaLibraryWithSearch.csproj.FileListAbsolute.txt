@@ -1,0 +1,14 @@
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibraryWithSearch\bin\Debug\netcoreapp3.0\MediaLibraryWithSearch.exe
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibraryWithSearch\obj\Debug\netcoreapp3.0\MediaLibraryWithSearch.AssemblyInfoInputs.cache
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibraryWithSearch\obj\Debug\netcoreapp3.0\MediaLibraryWithSearch.AssemblyInfo.cs
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibraryWithSearch\bin\Debug\netcoreapp3.0\NLog.config
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibraryWithSearch\bin\Debug\netcoreapp3.0\MediaLibraryWithSearch.deps.json
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibraryWithSearch\bin\Debug\netcoreapp3.0\MediaLibraryWithSearch.runtimeconfig.json
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibraryWithSearch\bin\Debug\netcoreapp3.0\MediaLibraryWithSearch.runtimeconfig.dev.json
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibraryWithSearch\bin\Debug\netcoreapp3.0\MediaLibraryWithSearch.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibraryWithSearch\bin\Debug\netcoreapp3.0\MediaLibraryWithSearch.pdb
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibraryWithSearch\bin\Debug\netcoreapp3.0\NLog.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibraryWithSearch\obj\Debug\netcoreapp3.0\MediaLibraryWithSearch.csprojAssemblyReference.cache
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibraryWithSearch\obj\Debug\netcoreapp3.0\MediaLibraryWithSearch.csproj.CopyComplete
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibraryWithSearch\obj\Debug\netcoreapp3.0\MediaLibraryWithSearch.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\MediaLibraryWithSearch\obj\Debug\netcoreapp3.0\MediaLibraryWithSearch.pdb

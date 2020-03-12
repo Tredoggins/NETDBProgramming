@@ -1,0 +1,14 @@
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsOOP\bin\Debug\netcoreapp3.0\NLog.config
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsOOP\bin\Debug\netcoreapp3.0\TicketsOOP.exe
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsOOP\bin\Debug\netcoreapp3.0\TicketsOOP.deps.json
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsOOP\bin\Debug\netcoreapp3.0\TicketsOOP.runtimeconfig.json
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsOOP\bin\Debug\netcoreapp3.0\TicketsOOP.runtimeconfig.dev.json
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsOOP\bin\Debug\netcoreapp3.0\TicketsOOP.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsOOP\bin\Debug\netcoreapp3.0\TicketsOOP.pdb
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsOOP\bin\Debug\netcoreapp3.0\NLog.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsOOP\obj\Debug\netcoreapp3.0\TicketsOOP.csprojAssemblyReference.cache
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsOOP\obj\Debug\netcoreapp3.0\TicketsOOP.AssemblyInfoInputs.cache
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsOOP\obj\Debug\netcoreapp3.0\TicketsOOP.AssemblyInfo.cs
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsOOP\obj\Debug\netcoreapp3.0\TicketsOOP.csproj.CopyComplete
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsOOP\obj\Debug\netcoreapp3.0\TicketsOOP.dll
+C:\Users\bitstudent\Downloads\NETDBProgramming-master\NETDBProgramming-master\TicketsOOP\obj\Debug\netcoreapp3.0\TicketsOOP.pdb

@@ -1,0 +1,19 @@
+2020-02-27 11:55:55.7368|INFO|TicketOOPTypes.Program|Program started
+2020-02-27 11:55:55.7730|INFO|TicketOOPTypes.BugDefectFile|Bug/Defect Tickets in file 0
+2020-02-27 11:55:55.7913|INFO|TicketOOPTypes.EnhancementFile|Enhancement Tickets in file 0
+2020-02-27 11:55:55.7996|INFO|TicketOOPTypes.TaskFile|Task Tickets in file 0
+2020-02-27 11:56:17.5107|INFO|TicketOOPTypes.Program|User Choice: 2, Write To File
+2020-02-27 11:56:19.5103|INFO|TicketOOPTypes.Program|User Choice: 3, Task
+2020-02-27 11:56:40.9313|INFO|TicketOOPTypes.Program|Program started
+2020-02-27 11:56:40.9630|INFO|TicketOOPTypes.BugDefectFile|Bug/Defect Tickets in file 0
+2020-02-27 11:56:40.9784|INFO|TicketOOPTypes.EnhancementFile|Enhancement Tickets in file 0
+2020-02-27 11:56:40.9856|INFO|TicketOOPTypes.TaskFile|Task Tickets in file 0
+2020-02-27 11:56:42.9428|INFO|TicketOOPTypes.Program|User Choice: 2, Write To File
+2020-02-27 11:56:44.5425|INFO|TicketOOPTypes.Program|User Choice: 3, Task
+2020-02-27 11:57:01.2390|INFO|TicketOOPTypes.TicketFile|Ticket id 1 added
+2020-02-27 11:57:06.9025|INFO|TicketOOPTypes.Program|User Choice: End
+2020-02-27 11:57:06.9086|INFO|TicketOOPTypes.Program|Program Ended
+2020-03-12 09:18:36.3344|INFO|TicketOOPTypes.Program|Program started
+2020-03-12 09:18:36.3735|INFO|TicketOOPTypes.BugDefectFile|Bug/Defect Tickets in file 0
+2020-03-12 09:18:36.3735|INFO|TicketOOPTypes.EnhancementFile|Enhancement Tickets in file 0
+2020-03-12 09:18:36.3969|INFO|TicketOOPTypes.TaskFile|Task Tickets in file 1

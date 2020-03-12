@@ -1,0 +1,5 @@
+2020-03-12 10:02:43.8688|INFO|TicketsWithSearch.Program|Program started
+2020-03-12 10:02:43.9057|INFO|TicketsWithSearch.BugDefectFile|Bug/Defect Tickets in file 0
+2020-03-12 10:02:43.9253|INFO|TicketsWithSearch.EnhancementFile|Enhancement Tickets in file 0
+2020-03-12 10:02:43.9358|INFO|TicketsWithSearch.TaskFile|Task Tickets in file 0
+2020-03-12 10:02:47.9791|INFO|TicketsWithSearch.Program|User Choice: 3, Search in File
